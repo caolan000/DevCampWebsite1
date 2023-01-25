@@ -42,12 +42,13 @@
 
 /*
 coding error or smth right here idk https://utahedu.devcamp.com/digital-literacy/guide/how-to-create-columns-animated-hover-effects-css
- .features-section > .columns-wrapper {
+ 
+} */
+.features-section > .columns-wrapper {
     width: 1000px;
     display: flex;
     justify-content: space-between;
-} */
-
+}
 .column {
     padding: 20px;
     margin: 42px;
