@@ -70,6 +70,7 @@ h1, h2. h3. h4. h5. h6 {
     color: #858585;
 }
 
+
 /* Skewed header */
 .skewed-header {
     position: relative;
@@ -109,9 +110,9 @@ h1, h2. h3. h4. h5. h6 {
 .skewed-header > .skewed-header-wrapper > .skewed-header-content > .heading-wrapper {
     background-color: #CEA135;
     color: #11122B;
-    width: 175px;
     border-bottom-left-radius: 2px;
     border-bottom-right-radius: 2px;
+    width: 175px;
     padding: 10px;
     text-align: center;
 }
