@@ -1,7 +1,12 @@
-.spacer {
-    margin-top: 50px;
-    margin-bottom: 50px;
+.spacer60 {
+    margin-top: 60px;
+    margin-bottom: 60px;
   }
+
+  .spacer10 {
+    height: 10px;
+    width: 100%;
+}
   
 .dark-bg {
     background-color: #11122b;
